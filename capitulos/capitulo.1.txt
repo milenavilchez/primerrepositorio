@@ -1,0 +1,1 @@
+Git es un sisema de control de versiones ideado por Linus Torvalds.
